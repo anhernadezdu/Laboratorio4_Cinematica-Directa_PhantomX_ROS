@@ -47,4 +47,5 @@ Tambien cuenta con una funcion *callback* la cual guarda el dato del objeto de t
 
 ### Comparacion Robot Real con Obtenida por Toolbox
 
+![Pose de Home](https://github.com/anhernadezdu/Laboratorio4_Cinematica-Directa_PhantomX_ROS/assets/70998067/75acd6a2-b639-4659-ae07-e131557f11a5)
 
