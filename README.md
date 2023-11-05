@@ -1,6 +1,6 @@
 # Laboratorio4_Cinematica-Directa_PhantomX_ROS
 ## Mediciones y Analisis
-Se utilizo un pie de rey con resolucion de 0.05mm para hallar las longitudes de los eslabones de lrobot Phantom X. A continuacion se muestra el diagrama de las medidas del robot.
+Se utilizo un pie de rey con resolucion de 0.05mm para hallar las longitudes de los eslabones de lrobot Phantom X. A continuacion se muestra el diagrama de las medidas del robot(mediddas en cm).
 ![WhatsApp Image 2023-11-05 at 16 40 48](https://github.com/anhernadezdu/Laboratorio4_Cinematica-Directa_PhantomX_ROS/assets/70985250/a377600d-ea08-4925-9c87-8452264b8a1c)
 Seguidamente se procedio a hallar los parametros DH usando las dimensiones medidas y el siguiente diagrama.
 ![WhatsApp Image 2023-11-05 at 17 34 04](https://github.com/anhernadezdu/Laboratorio4_Cinematica-Directa_PhantomX_ROS/assets/70985250/dec1d7c5-23cb-49cc-af59-45a39b6eee17)
