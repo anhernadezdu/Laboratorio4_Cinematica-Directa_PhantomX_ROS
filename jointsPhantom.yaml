@@ -1,0 +1,25 @@
+j1_Waist:
+  ID: 1
+  Return_Delay_Time: 0
+  Torque_Limit: 400
+  Moving_Speed: 130
+j2_Shoulder:
+  ID: 2
+  Return_Delay_Time: 0
+  Torque_Limit: 610
+  Moving_Speed: 100
+j3_Elbow:
+  ID: 3
+  Return_Delay_Time: 0
+  Torque_Limit: 400
+  Moving_Speed: 100
+j4_Wrist:
+  ID: 4
+  Return_Delay_Time: 0
+  Torque_Limit: 300
+  Moving_Speed: 130
+j5_Hand:
+  ID: 5
+  Return_Delay_Time: 0
+  Torque_Limit: 300
+  Moving_Speed: 130
