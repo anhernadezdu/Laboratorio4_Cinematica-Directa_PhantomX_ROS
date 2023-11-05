@@ -41,11 +41,11 @@ Tambien cuenta con una funcion *callback* la cual guarda el dato del objeto de t
 4. Finalmente, por fines esteticos, se realiza una modificacion en el archivo [CMakeLists](CMakeLists.txt) para asi permitir el incluir la carpeta [resources](resources), que contiene el logo de la Unal, junto con los el script Interfaz.py dentro del paquete one_controller.
 
 ### Video Funcionamiento con Interfaz grafica
-[Video de funcionamiento de poses con la interfaz grafica](https://github.com/anhernadezdu/Laboratorio4_Cinematica-Directa_PhantomX_ROS/blob/main/Video_funcionamiento.mp4)
+![Video de funcionamiento de poses con la interfaz grafica](https://github.com/anhernadezdu/Laboratorio4_Cinematica-Directa_PhantomX_ROS/blob/main/Video_funcionamiento.mp4)
 
 
 
 ### Comparacion Robot Real con Obtenida por Toolbox
 
-[Pose de Home](https://github.com/anhernadezdu/Laboratorio4_Cinematica-Directa_PhantomX_ROS/assets/70998067/75acd6a2-b639-4659-ae07-e131557f11a5)
+![Pose de Home](https://github.com/anhernadezdu/Laboratorio4_Cinematica-Directa_PhantomX_ROS/assets/70998067/75acd6a2-b639-4659-ae07-e131557f11a5)
 
