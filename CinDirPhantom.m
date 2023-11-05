@@ -14,7 +14,7 @@ MTCP5=troty(pi/2)*trotz(pi/2);
 mtotal=M10*M21*M32*M43*M54*MTCP5
 
 P1(1)=Link('revolute','d',l1,'alpha',pi/2,'a',0,'qlim',pi/180*[-180 180]);
-P1(2)=Link('revolute','d',0,'alpha',0,'a',l2,'qlim',pi/180*[-150 150],'offset', pi/2;
+P1(2)=Link('revolute','d',0,'alpha',0,'a',l2,'qlim',pi/180*[-150 150],'offset', pi/2);
 P1(3)=Link('revolute','d',0,'alpha',0,'a',l3,'qlim',pi/180*[-150 150]);
 P1(4)=Link('revolute','d',0,'alpha',0,'a',l4,'qlim',pi/180*[-150 150]);
 
