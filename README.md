@@ -41,11 +41,22 @@ Tambien cuenta con una funcion *callback* la cual guarda el dato del objeto de t
 4. Finalmente, por fines esteticos, se realiza una modificacion en el archivo [CMakeLists](CMakeLists.txt) para asi permitir el incluir la carpeta [resources](resources), que contiene el logo de la Unal, junto con los el script Interfaz.py dentro del paquete one_controller.
 
 ### Video Funcionamiento con Interfaz grafica
-![Video de funcionamiento de poses con la interfaz grafica](https://github.com/anhernadezdu/Laboratorio4_Cinematica-Directa_PhantomX_ROS/blob/main/Video_funcionamiento.mp4)
+[Video de funcionamiento de poses con la interfaz grafica](https://github.com/anhernadezdu/Laboratorio4_Cinematica-Directa_PhantomX_ROS/blob/main/Video_funcionamiento.mp4)
 
 
 
 ### Comparacion Robot Real con Obtenida por Toolbox
-
+#### Pose de Home
 ![Pose de Home](https://github.com/anhernadezdu/Laboratorio4_Cinematica-Directa_PhantomX_ROS/assets/70998067/75acd6a2-b639-4659-ae07-e131557f11a5)
+#### Pose 1
+![image](https://github.com/anhernadezdu/Laboratorio4_Cinematica-Directa_PhantomX_ROS/assets/70998067/623dd4a3-a73c-4e8c-993a-dd1a0752d451)
+#### Pose 2
+![image](https://github.com/anhernadezdu/Laboratorio4_Cinematica-Directa_PhantomX_ROS/assets/70998067/eed3e5e7-f45b-47f3-86fb-54cf1bebe6bd)
+#### Pose 3
+![image](https://github.com/anhernadezdu/Laboratorio4_Cinematica-Directa_PhantomX_ROS/assets/70998067/f7851c88-9b1f-4213-b8ab-a4c25da0e4d3)
+#### Pose 4
+![image](https://github.com/anhernadezdu/Laboratorio4_Cinematica-Directa_PhantomX_ROS/assets/70998067/e74567a6-e125-4807-991f-2c82d29e4643)
+
+
+
 
